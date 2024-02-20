@@ -1,2 +1,6 @@
 Este é o meu segundo arquivo
+<<<<<<< HEAD
 Adicionando um cometario para este arquivo
+=======
+Estou alterando o titulo desse arquivo.
+>>>>>>> 23217f6104cc0261c05a2e3bfce5e8e23c1e5a83
